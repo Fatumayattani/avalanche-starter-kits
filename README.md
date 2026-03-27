@@ -1,4 +1,18 @@
 # Avalanche Starter Kits
+![Avalanche](https://img.shields.io/badge/Avalanche-Red?style=for-the-badge&logo=avalanche&logoColor=white)
+![Fuji Testnet](https://img.shields.io/badge/Fuji-Testnet-black?style=for-the-badge)
+![EVM](https://img.shields.io/badge/EVM-Compatible-blue?style=for-the-badge)
+![Core Wallet](https://img.shields.io/badge/Core-Wallet-black?style=for-the-badge)
+![Team 1 Africa](https://img.shields.io/badge/Team%201-Africa-red?style=for-the-badge)
+
+![Solidity](https://img.shields.io/badge/Solidity-0.8.x-black?style=for-the-badge&logo=solidity)
+![Hardhat](https://img.shields.io/badge/Hardhat-Framework-yellow?style=for-the-badge)
+![Ethers](https://img.shields.io/badge/Ethers-v6-purple?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge)
+
 Build real applications on Avalanche without overthinking setup.
 
 This repository provides a collection of minimal, runnable starter kits designed to help developers quickly understand and build on Avalanche using practical examples.
