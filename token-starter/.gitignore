@@ -1,0 +1,20 @@
+node_modules
+.env
+.env.local
+.env.*.local
+
+# build outputs
+dist/
+artifacts/
+cache/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+typechain-types/
