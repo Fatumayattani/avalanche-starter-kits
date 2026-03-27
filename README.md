@@ -19,6 +19,16 @@ A set of focused starter kits covering common patterns:
 
 Each starter is intentionally simple and avoids unnecessary abstractions.
 
+## 📦 Starter Kits
+
+| Starter | Description | Path |
+|--------|------------|------|
+| Token Starter | Deploy and interact with an ERC20 token using Core Wallet | [View](./token-starter) |
+| NFT Starter | Mint and interact with NFTs (coming soon) | [View](./nft-starter) |
+| Payments Starter | Send and receive AVAX or tokens (coming soon) | [View](./payments-starter) |
+| Contract Interaction | Read and write to deployed contracts (coming soon) | [View](./contract-interaction) |
+| Event Listener | Listen to and process onchain events (coming soon) | [View](./event-listener) |
+
 ---
 
 ## ⚙️ Tech Stack
